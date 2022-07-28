@@ -13,43 +13,43 @@ body {
     align-items: center;
 
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-        url(/assets/img/cold.png) no-repeat center/cover;
+        url(./assets/img/cold.png) no-repeat center/cover;
 }
 
 .hot {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-        url(/assets/img/hot-1.png) no-repeat center/cover;
+        url(./assets/img/hot-1.png) no-repeat center/cover;
 }
 
 .hot #weather {
-    background: url(/assets/img/hot-1.png) no-repeat center/cover;
+    background: url(./assets/img/hot-1.png) no-repeat center/cover;
 }
 
 .cold {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-        url(/assets/img/cold-1.png) no-repeat center/cover;
+        url(./assets/img/cold-1.png) no-repeat center/cover;
 }
 
 .cold #weather {
-    background: url(/assets/img/cold-1.png) no-repeat center/cover;
+    background: url(./assets/img/cold-1.png) no-repeat center/cover;
 }
 
 .cool {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-        url(/assets/img/cool.png) no-repeat center/cover;
+        url(./assets/img/cool.png) no-repeat center/cover;
 }
 
 .cool #weather {
-    background: url(/assets/img/cool.png) no-repeat center/cover;
+    background: url(./assets/img/cool.png) no-repeat center/cover;
 }
 
 .warm {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-        url(/assets/img/warm.png) no-repeat center/cover;
+        url(./assets/img/warm.png) no-repeat center/cover;
 }
 
 .warm #weather {
-    background: url(/assets/img/warm.png) no-repeat center/cover;
+    background: url(./assets/img/warm.png) no-repeat center/cover;
 }
 
 #weather {
@@ -57,7 +57,7 @@ body {
     border-radius: 10px;
     padding: 30px 20px;
     /* background: yellowgreen; */
-    background: url(/assets/img/cold.png) no-repeat center/cover;
+    background: url(./assets/img/cold.png) no-repeat center/cover;
 }
 
 #weather .content {
